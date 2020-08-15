@@ -1,9 +1,7 @@
 # Solar Irradiance Prediction
 
-[Paper](https://github.com/MaximeDaigle/Solar-Irradiance-Prediction/blob/master/GHI%20projections.pdf)
-
-
-[Visualization](https://drive.google.com/file/d/1AO7Bj6Usk9A_CyrkIlHXUMt157EOd5v-/view)
+[[Paper]](https://github.com/MaximeDaigle/Solar-Irradiance-Prediction/blob/master/GHI%20projections.pdf)
+[[Visualization]](https://drive.google.com/file/d/1AO7Bj6Usk9A_CyrkIlHXUMt157EOd5v-/view)
 
 
 ![Processed data](https://media.giphy.com/media/RgzqdUy09gDbZVLW2o/source.gif)
